@@ -2,4 +2,4 @@
 Source Insight 4.0 Configuration XML
 
 # Preview
-![img1](preview.PNG)
+![img1](preview.png)
